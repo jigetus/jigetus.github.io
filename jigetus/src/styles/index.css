@@ -1,5 +1,7 @@
 body {
   background-color: #292d3d;
+  background-color: linear-gradient(to right, #29323c, #485563);
+
   color: #eee;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;

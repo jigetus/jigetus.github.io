@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 const Hello = (props) => (
   <div className="hello">
@@ -8,11 +9,12 @@ const Hello = (props) => (
     <br /> Я - <span className="spec">full-stack web developer</span> из Москвы.
     <br></br>
     <br />
-    <br />
-    <div id="btn">
-      <span class="noselect">Посмотреть мои работы</span>
-      <div id="circle"></div>
-    </div>
+    <NavLink to="/projects">
+      <div id="btn" tabIndex="1">
+        <span className="noselect">Посмотреть мои работы</span>
+        <div id="circle"></div>
+      </div>
+    </NavLink>
   </div>
 );
 export default Hello;

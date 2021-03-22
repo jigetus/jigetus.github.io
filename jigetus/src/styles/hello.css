@@ -10,7 +10,7 @@
   transform: translate(-50%, -50%);
 }
 #btn {
-  background: rgba(190, 189, 189, 0.801);
+  background: rgba(224, 224, 224, 0.87);
   height: 50px;
   min-width: 150px;
   max-width: 280px;
@@ -18,7 +18,7 @@
   border: none;
   /* border-radius: 10px; */
   font-size: 0.6em;
-  color: #eee;
+  color: rgb(0, 0, 0);
   position: relative;
   transition: 1s;
   -webkit-tap-highlight-color: transparent;
@@ -29,7 +29,9 @@
   padding: 0px 10px;
   text-transform: uppercase;
 }
-
+#btn a {
+  pointer-events: all;
+}
 #btn #circle {
   width: 5px;
   height: 5px;
@@ -53,9 +55,22 @@
 
 #btn:hover {
   background: transparent;
+  color: white;
+}
+#btn:focus {
+  background: transparent;
+  outline: none;
+  color: white;
 }
 
 #btn:hover #circle {
+  height: 50px;
+  width: 300px;
+  left: 0;
+  border-radius: 0;
+  border-bottom: 2px solid magenta;
+}
+#btn:focus #circle {
   height: 50px;
   width: 300px;
   left: 0;

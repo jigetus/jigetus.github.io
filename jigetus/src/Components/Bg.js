@@ -20,7 +20,6 @@ function getRandomIntInclusive(min, max) {
 
 const Bg = (props) => {
   const [width, height] = useWindowSize();
-  console.log(width);
   //pseudorandom function
   const getBit = () => Math.round(Math.random());
   //color constants
@@ -32,7 +31,6 @@ const Bg = (props) => {
   const x = Math.round(window.innerWidth / (cellSize + 1));
   const y = Math.round(window.innerHeight / (cellSize + 1));
   const cells = [];
-  console.log("Current matrix:", x, y);
   for (let i = 0; i < y; i++) {
     for (let j = 0; j < x; j++) {
       cells.push({ i, j });
@@ -44,7 +42,7 @@ const Bg = (props) => {
     return { i: parseInt(match[0]), j: parseInt(match[1]) };
   };
   // mobile animation
-  if (width <= 420 && width != 0) {
+  if (width <= 420 && width !== 0) {
     setInterval(() => {
       for (let t = 0; t < y; t++) {
         for (let n = 0; n < x; n++) {
