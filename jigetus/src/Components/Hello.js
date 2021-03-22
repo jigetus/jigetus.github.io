@@ -3,6 +3,9 @@ import { NavLink } from "react-router-dom";
 
 const Hello = (props) => (
   <div className="hello">
+    <span style={{ fontSize: "3em" }}>🍕</span>
+    <br />
+    <br />
     Привет, меня зовут Алексей.
     <br />
     ---------------------
