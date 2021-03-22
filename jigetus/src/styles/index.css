@@ -1,0 +1,11 @@
+body {
+  background-color: #292d3d;
+  color: #eee;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  overflow: hidden;
+}
+
+@import "setdefaults.css";
+@import "main.css";
+@import "bg.css";
