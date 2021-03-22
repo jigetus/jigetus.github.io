@@ -12,9 +12,15 @@ function useWindowSize() {
   }, []);
   return size;
 }
+function getRandomIntInclusive(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min + 1)) + min; //Максимум и минимум включаются
+}
 
 const Bg = (props) => {
   const [width, height] = useWindowSize();
+  console.log(width);
   //pseudorandom function
   const getBit = () => Math.round(Math.random());
   //color constants
@@ -37,6 +43,20 @@ const Bg = (props) => {
     const match = id.match(/\w+/g);
     return { i: parseInt(match[0]), j: parseInt(match[1]) };
   };
+  // mobile animation
+  if (width <= 420 && width != 0) {
+    setInterval(() => {
+      for (let t = 0; t < y; t++) {
+        for (let n = 0; n < x; n++) {
+          document.getElementById(`${t}.${n}`).style.color = noactive;
+        }
+      }
+      let i = getRandomIntInclusive(0, y - 1);
+      let j = getRandomIntInclusive(0, x - 1);
+
+      document.getElementById(`${i}.${j}`).style.color = active1;
+    }, 700);
+  }
   //event handlers
   const mouseEnterHandler = (ev) => {
     const el = ev.target;
@@ -91,9 +111,8 @@ const Bg = (props) => {
           key={`${el.i}.${el.j}`}
           style={{ width: cellSize, height: cellSize }}
           className="cell"
-          onMouseEnter={(ev) => mouseEnterHandler(ev)}
-          onMouseLeave={(ev) => mouseLeaveHandler(ev)}
-          onClick={(ev) => console.error(ev.target.id)}
+          onMouseEnter={(ev) => (width > 420 ? mouseEnterHandler(ev) : null)}
+          onMouseLeave={(ev) => (width > 420 ? mouseLeaveHandler(ev) : null)}
         >
           {getBit()}
         </div>

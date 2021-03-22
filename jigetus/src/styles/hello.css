@@ -1,0 +1,76 @@
+.hello {
+  max-width: 800px;
+  width: 100%;
+  margin: auto auto;
+  text-align: center;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#btn {
+  background: rgba(190, 189, 189, 0.801);
+  height: 50px;
+  min-width: 150px;
+  max-width: 280px;
+  margin: 0 auto;
+  border: none;
+  /* border-radius: 10px; */
+  font-size: 0.6em;
+  color: #eee;
+  position: relative;
+  transition: 1s;
+  -webkit-tap-highlight-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0px 10px;
+  text-transform: uppercase;
+}
+
+#btn #circle {
+  width: 5px;
+  height: 5px;
+  background: transparent;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  overflow: hidden;
+  transition: 500ms;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#btn:hover {
+  background: transparent;
+}
+
+#btn:hover #circle {
+  height: 50px;
+  width: 300px;
+  left: 0;
+  border-radius: 0;
+  border-bottom: 2px solid magenta;
+}
+.spec {
+  color: magenta;
+}
+@media (max-width: 420px) {
+  .hello {
+    margin-top: 120px;
+    position: relative;
+    left: 0;
+    top: 0;
+    transform: none;
+  }
+}

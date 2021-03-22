@@ -4,8 +4,10 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   overflow: hidden;
+  height: 100%;
 }
 
 @import "setdefaults.css";
 @import "main.css";
 @import "bg.css";
+@import "hello.css";
