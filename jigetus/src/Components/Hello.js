@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 
 const Hello = (props) => (
   <div className="hello">
-    Привет, меня зовут Алексей Данилов.
+    Привет, меня зовут Алексей.
     <br />
     ---------------------
-    <br /> Я - <span className="spec">full-stack web developer</span> из Москвы.
+    <br /> Я - <span className="spec">веб-разработчик</span> из Москвы.
     <br></br>
     <br />
     <NavLink to="/projects">

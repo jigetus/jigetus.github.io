@@ -64,19 +64,25 @@ const Bg = (props) => {
         //Условие второго радиуса
         for (let x = i - 2; x <= i + 2; x++) {
           for (let y = j - 2; y <= j + 2; y++) {
-            document.getElementById(`${x}.${y}`).style.color = active2;
+            if (document.getElementById(`${x}.${y}`).textContent === "1") {
+              document.getElementById(`${x}.${y}`).style.color = active2;
+            }
           }
         }
       }
       //Условие первого радиуса
       for (let x = i - 1; x <= i + 1; x++) {
         for (let y = j - 1; y <= j + 1; y++) {
-          document.getElementById(`${x}.${y}`).style.color = active1;
+          if (document.getElementById(`${x}.${y}`).textContent === "1") {
+            document.getElementById(`${x}.${y}`).style.color = active1;
+          }
         }
       }
     } else {
       //обработка углов
-      el.style.color = active1;
+      if (el.textContent === "1") {
+        el.style.color = active1;
+      }
     }
   };
   const mouseLeaveHandler = (ev) => {
