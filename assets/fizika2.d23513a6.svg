@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="132"
+    viewBox="0 0 263 132">
+    <defs>
+        <linearGradient id="bb3cb013-ea95-4b72-87d9-b81a14f18276" x1="242.9619" y1="111.9619" x2="151.0381" y2="20.0381"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#06af86" />
+            <stop offset="1" stop-color="#08b995" />
+        </linearGradient>
+        <linearGradient id="a" x1="111.667" x2="20.246" y1="111.667" y2="20.246" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b31217" class="stopColor07758e svgShape" />
+            <stop offset="1" stop-color="#e52d27" class="stopColor087f95 svgShape" />
+        </linearGradient>
+    </defs>
+    <title>Fizika</title>
+    <g id="79fd6e98-b303-4d9c-b1bc-a4d860da60f8" data-name="Layer 2">
+        <g id="7757fdd6-7db2-412e-afc9-90ffe38352ca" data-name="Layer 1">
+            <rect width="263" height="132" fill="none" />
+            <circle cx="197" cy="66" r="65" fill="url(#bb3cb013-ea95-4b72-87d9-b81a14f18276)" />
+            <circle cx="66" cy="66" r="69" fill="url(#a)" />
+            <path
+                d="M92.0733,38.7181l-12.5762,11.16,10.78,10.78-8.3525,7.4116L52.5733,38.7181l-12.5762,11.16,12.9412,12.941-8.9412,7.934L60.1807,86.9363l-8.8086,7.8163,33.4648,33.4648A65.0678,65.0678,0,0,0,130.1,76.7448Z"
+                opacity="0.2" />
+            <path
+                d="M66.0368,99.25A26.0461,26.0461,0,0,1,40.02,73.2336V53.4677H52.5082v19.766a13.5284,13.5284,0,1,0,27.0569,0V53.4677H92.0527v19.766A26.0457,26.0457,0,0,1,66.0368,99.25Z"
+                fill="#fff" />
+            <rect x="39.9473" y="38.75" width="12.4877" height="11.1497" fill="#fff" />
+            <rect x="79.565" y="38.75" width="12.4877" height="11.1497" fill="#fff" />
+            <path
+                d="M223.0733,38.7181l-12.5762,11.16,10.78,10.78-8.3525,7.4116L183.5733,38.7181l-12.5762,11.16,12.9412,12.941-8.9412,7.934,16.1836,16.1837-8.8086,7.8163,33.4648,33.4648A65.0678,65.0678,0,0,0,261.1,76.7448Z"
+                opacity="0.1" />
+            <path
+                d="M197.0368,99.25A26.0461,26.0461,0,0,1,171.02,73.2336V53.4677h12.4877v19.766a13.5284,13.5284,0,1,0,27.0569,0V53.4677h12.4877v19.766A26.0457,26.0457,0,0,1,197.0368,99.25Z"
+                fill="#fff" />
+            <rect x="170.9473" y="38.75" width="12.4877" height="11.1497" fill="#fff" />
+            <rect x="210.565" y="38.75" width="12.4877" height="11.1497" fill="#bbf2ff" />
+        </g>
+    </g>
+</svg>

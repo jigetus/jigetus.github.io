@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="132"
+    viewBox="0 0 263 132">
+    <defs>
+        <linearGradient id="708d7186-cba3-4575-a6dc-189fa292ce83" x1="111.7843" y1="111.6667" x2="20.3634" y2="20.2458"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b31217" class="stopColor07758e svgShape" />
+            <stop offset="1" stop-color="#e52d27" class="stopColor087f95 svgShape" />
+        </linearGradient>
+        <linearGradient id="a" x1="111.667" x2="20.246" y1="111.667" y2="20.246" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b31217" class="stopColor07758e svgShape" />
+            <stop offset="1" stop-color="#e52d27" class="stopColor087f95 svgShape" />
+        </linearGradient>
+        <linearGradient id="bec4a6e4-7120-433f-bd2e-2e21668cdb87" x1="111.7843" y1="111.6667" x2="20.3634" y2="20.2458"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b31217" class="stopColor07758e svgShape" />
+            <stop offset="1" stop-color="#e52d27" class="stopColor087f95 svgShape" />
+        </linearGradient>
+        <linearGradient id="8b6fbdb6-3902-403b-b24e-ca599d763974" x1="237.5287" y1="107.6545" x2="156.5287" y2="24.4045"
+            xlink:href="#708d7186-cba3-4575-a6dc-189fa292ce83" />
+    </defs>
+    <title>Геометрия</title>
+    <g id="8d4ff9fd-1ac1-4094-aaa3-665c10e6ca05" data-name="Layer 2">
+        <g id="730b1c35-ed7f-4e81-9cb4-98ccd0de080f" data-name="Layer 1">
+            <rect width="263" height="132" fill="none" />
+            <circle cx="66.1176" cy="66" r="69" fill="url(#708d7186-cba3-4575-a6dc-189fa292ce83)" />
+            <path d="M36.8413,95.4316l35.2813,35.2815A65.0008,65.0008,0,0,0,130.83,72.0112L95.3918,36.573Z"
+                opacity="0.2" />
+            <polygon
+                points="53.597 37.536 94.506 37.536 94.506 79.947 80.234 94.218 37.65 94.218 37.65 52.443 53.597 37.536"
+                fill="#75daf9" />
+            <polygon points="79.957 53.495 95.364 38.089 94.057 36.781 78.799 52.039 79.957 53.495" fill="#1c1c1c" />
+            <path
+                d="M95.3941,79.7289l-.0023-.0023V36.573H54.8638l.0047-.0047H52.254L36.8412,51.9811V95.4318H80.2918v-.0084L95.3941,80.3211ZM78.4429,93.5828H38.69V53.83H78.4429Zm15.1-15.4081v1.3831L80.2918,92.8089V51.9811H39.4557L53.0149,38.4219H93.5429Z"
+                fill="#1c1c1c" />
+            <rect x="55.3886" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="63.9978" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="72.6071" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="81.2163" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="89.8255" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="37.1155" y="92.9468" width="3.4199" height="1.0786"
+                transform="translate(-54.7329 54.8351) rotate(-45)" fill="#1c1c1c" />
+            <rect x="41.9465" y="87.3796" width="4.8921" height="1.0786"
+                transform="translate(-49.1658 57.1411) rotate(-45)" fill="#1c1c1c" />
+            <rect x="48.0342" y="81.2919" width="4.8921" height="1.0786"
+                transform="translate(-43.0781 59.6627) rotate(-45)" fill="#1c1c1c" />
+            <rect x="50.4195" y="39.4428" width="4.8921" height="1.0786"
+                transform="translate(92.8476 -12.8834) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="48.052" width="4.8921" height="1.0786"
+                transform="translate(101.4568 -4.2742) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="56.6613" width="4.8921" height="1.0786"
+                transform="translate(110.0661 4.3351) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="65.2705" width="4.8921" height="1.0786"
+                transform="translate(118.6753 12.9443) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="73.8798" width="4.8921" height="1.0786"
+                transform="translate(127.2845 21.5536) rotate(90)" fill="#1c1c1c" />
+            <rect x="78.4429" y="73.7064" width="1.849" height="1.04" fill="#1c1c1c" />
+            <rect x="55.8508" y="52.3855" width="1.849" height="1.04" transform="translate(109.6809 -3.8697) rotate(90)"
+                fill="#1c1c1c" />
+            <circle cx="66.1176" cy="66" r="65" fill="url(#a)" />
+            <path d="M36.8413,95.4316l35.2813,35.2815A65.0008,65.0008,0,0,0,130.83,72.0112L95.3918,36.573Z"
+                opacity="0.2" />
+            <polygon
+                points="53.597 37.536 94.506 37.536 94.506 79.947 80.234 94.218 37.65 94.218 37.65 52.443 53.597 37.536"
+                fill="white" />
+            <polygon points="79.957 53.495 95.364 38.089 94.057 36.781 78.799 52.039 79.957 53.495" fill="#1c1c1c" />
+            <path
+                d="M95.3941,79.7289l-.0023-.0023V36.573H54.8638l.0047-.0047H52.254L36.8412,51.9811V95.4318H80.2918v-.0084L95.3941,80.3211ZM78.4429,93.5828H38.69V53.83H78.4429Zm15.1-15.4081v1.3831L80.2918,92.8089V51.9811H39.4557L53.0149,38.4219H93.5429Z"
+                fill="#1c1c1c" />
+            <rect x="55.3886" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="63.9978" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="72.6071" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="81.2163" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="89.8255" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="37.1155" y="92.9468" width="3.4199" height="1.0786"
+                transform="translate(-54.7329 54.8351) rotate(-45)" fill="#1c1c1c" />
+            <rect x="41.9465" y="87.3796" width="4.8921" height="1.0786"
+                transform="translate(-49.1658 57.1411) rotate(-45)" fill="#1c1c1c" />
+            <rect x="48.0342" y="81.2919" width="4.8921" height="1.0786"
+                transform="translate(-43.0781 59.6627) rotate(-45)" fill="#1c1c1c" />
+            <rect x="50.4195" y="39.4428" width="4.8921" height="1.0786"
+                transform="translate(92.8476 -12.8834) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="48.052" width="4.8921" height="1.0786"
+                transform="translate(101.4568 -4.2742) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="56.6613" width="4.8921" height="1.0786"
+                transform="translate(110.0661 4.3351) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="65.2705" width="4.8921" height="1.0786"
+                transform="translate(118.6753 12.9443) rotate(90)" fill="#1c1c1c" />
+            <rect x="50.4195" y="73.8798" width="4.8921" height="1.0786"
+                transform="translate(127.2845 21.5536) rotate(90)" fill="#1c1c1c" />
+            <rect x="78.4429" y="73.7064" width="1.849" height="1.04" fill="#1c1c1c" />
+            <rect x="55.8508" y="52.3855" width="1.849" height="1.04" transform="translate(109.6809 -3.8697) rotate(90)"
+                fill="#1c1c1c" />
+            <circle cx="197" cy="66" r="65" fill="url(#8b6fbdb6-3902-403b-b24e-ca599d763974)" />
+            <path d="M167.7237,95.4316l35.2813,35.2815a65.0008,65.0008,0,0,0,58.7078-58.7019L226.2742,36.573Z"
+                opacity="0.2" />
+            <polygon
+                points="184.48 37.536 225.388 37.536 225.388 79.947 211.116 94.218 168.532 94.218 168.532 52.443 184.48 37.536"
+                fill="white" />
+            <polygon points="210.84 53.495 226.246 38.089 224.939 36.781 209.682 52.039 210.84 53.495" fill="#1c1c1c" />
+            <path
+                d="M226.2765,79.7289l-.0023-.0023V36.573H185.7462l.0047-.0047h-2.6146L167.7235,51.9811V95.4318h43.4507v-.0084l15.1023-15.1023ZM209.3252,93.5828H169.5725V53.83h39.7528Zm15.1-15.4081v1.3831L211.1742,92.8089V51.9811H170.3381l13.5592-13.5592h40.5281Z"
+                fill="#1c1c1c" />
+            <rect x="186.2709" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="194.8802" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="203.4894" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="212.0987" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="220.7079" y="78.9066" width="4.8921" height="1.0786" fill="#1c1c1c" />
+            <rect x="167.9978" y="92.9468" width="3.4199" height="1.0786"
+                transform="translate(-16.3984 147.3829) rotate(-45)" fill="#1c1c1c" />
+            <rect x="172.8289" y="87.3796" width="4.8921" height="1.0786"
+                transform="translate(-10.8312 149.6889) rotate(-45)" fill="#1c1c1c" />
+            <rect x="178.9165" y="81.2919" width="4.8921" height="1.0786"
+                transform="translate(-4.7435 152.2105) rotate(-45)" fill="#1c1c1c" />
+            <rect x="181.3018" y="39.4428" width="4.8921" height="1.0786"
+                transform="translate(223.7299 -143.7658) rotate(90)" fill="#1c1c1c" />
+            <rect x="181.3018" y="48.052" width="4.8921" height="1.0786"
+                transform="translate(232.3392 -135.1565) rotate(90)" fill="#1c1c1c" />
+            <rect x="181.3018" y="56.6613" width="4.8921" height="1.0786"
+                transform="translate(240.9484 -126.5473) rotate(90)" fill="#1c1c1c" />
+            <rect x="181.3018" y="65.2705" width="4.8921" height="1.0786"
+                transform="translate(249.5577 -117.938) rotate(90)" fill="#1c1c1c" />
+            <rect x="181.3018" y="73.8798" width="4.8921" height="1.0786"
+                transform="translate(258.1669 -109.3288) rotate(90)" fill="#1c1c1c" />
+            <rect x="209.3252" y="73.7064" width="1.849" height="1.04" fill="#1c1c1c" />
+            <rect x="186.7332" y="52.3855" width="1.849" height="1.04"
+                transform="translate(240.5632 -134.7521) rotate(90)" fill="#1c1c1c" />
+        </g>
+    </g>
+</svg>

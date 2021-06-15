@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263" height="132"
+    viewBox="0 0 263 132">
+    <defs>
+        <linearGradient id="0d04c7be-1af5-49ad-aebb-d5bd5c8f4b1f" x1="242.9619" y1="111.9619" x2="151.0381" y2="20.0381"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#06af86" />
+            <stop offset="1" stop-color="#08b995" />
+        </linearGradient>
+        <linearGradient id="a" x1="111.667" x2="20.246" y1="111.667" y2="20.246" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b31217" class="stopColor07758e svgShape" />
+            <stop offset="1" stop-color="#e52d27" class="stopColor087f95 svgShape" />
+        </linearGradient>
+    </defs>
+    <title>geografija</title>
+    <g id="6956e7d0-ecb0-4c9d-a559-4bb8e229a1f0" data-name="Layer 2">
+        <g id="62eec953-39f9-4223-8a8d-1522abef087c" data-name="Layer 1">
+            <rect width="263" height="132" fill="none" />
+            <circle cx="197" cy="66" r="65" fill="url(#0d04c7be-1af5-49ad-aebb-d5bd5c8f4b1f)" />
+            <circle cx="66" cy="66" r="69" fill="url(#a)" />
+            <path
+                d="M53.5794,100.2917,82.242,128.9542A65.1157,65.1157,0,0,0,128.281,84.613L84.668,41,67.8972,44.6042l-14.5-14.5-4.396,2.5625-11.3333,21,4.5,22.75L59.4234,93.6721l-.3906.3125,2.6716,2.6716,9.3647,8.6615L62.3137,98Z"
+                opacity="0.2" />
+            <circle cx="66.6262" cy="56.375" r="21.625" fill="lightgrey" />
+            <circle cx="66.3225" cy="55.9425" r="21.876" transform="translate(-19.6806 44.4659) rotate(-32.5465)"
+                fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" />
+            <ellipse cx="66.3225" cy="55.9425" rx="11.6536" ry="20.4449"
+                transform="translate(-19.6806 44.4659) rotate(-32.5465)" fill="none" stroke="#fff"
+                stroke-miterlimit="10" stroke-width="3" />
+            <line x1="53.5078" y1="35.5215" x2="79.2443" y2="76.2709" fill="none" stroke="#fff" stroke-linecap="round"
+                stroke-linejoin="round" stroke-width="3" />
+            <line x1="80.0663" y1="37.9547" x2="44.2194" y2="60.8325" fill="none" stroke="#fff" stroke-miterlimit="10"
+                stroke-width="3" />
+            <line x1="88.4256" y1="51.0526" x2="52.5787" y2="73.9305" fill="none" stroke="#fff" stroke-miterlimit="10"
+                stroke-width="3" />
+            <path d="M81.7782,80.16A28.7391,28.7391,0,0,1,50.8559,31.7083" fill="none" stroke="#fff"
+                stroke-linecap="round" stroke-linejoin="round" stroke-width="6" />
+            <rect x="53.5793" y="95.7163" width="27.4523" height="4.5754" fill="#fff" />
+            <rect x="59.0483" y="91.6413" width="16.5142" height="2.3592" fill="#fff" />
+            <rect x="62.3726" y="85.6362" width="9.8657" height="6.0052"
+                transform="translate(155.9442 21.3333) rotate(90)" fill="#fff" />
+            <path
+                d="M184.5794,100.2917l28.6626,28.6625A65.1157,65.1157,0,0,0,259.281,84.613L215.668,41l-16.7708,3.6042-14.5-14.5-4.396,2.5625-11.3333,21,4.5,22.75,17.2554,17.2554-.3906.3125,2.6716,2.6716,9.3647,8.6615L193.3137,98Z"
+                opacity="0.1" />
+            <circle cx="197.6262" cy="56.375" r="21.625" fill="#65a8db" />
+            <circle cx="197.3225" cy="55.9425" r="21.876" transform="translate(0.8923 114.9417) rotate(-32.5465)"
+                fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3" />
+            <ellipse cx="197.3225" cy="55.9425" rx="11.6536" ry="20.4449"
+                transform="translate(0.8923 114.9417) rotate(-32.5465)" fill="none" stroke="#fff" stroke-miterlimit="10"
+                stroke-width="3" />
+            <line x1="184.5078" y1="35.5215" x2="210.2443" y2="76.2709" fill="none" stroke="#fff" stroke-linecap="round"
+                stroke-linejoin="round" stroke-width="3" />
+            <line x1="211.0663" y1="37.9547" x2="175.2194" y2="60.8325" fill="none" stroke="#fff" stroke-miterlimit="10"
+                stroke-width="3" />
+            <line x1="219.4256" y1="51.0526" x2="183.5787" y2="73.9305" fill="none" stroke="#fff" stroke-miterlimit="10"
+                stroke-width="3" />
+            <path d="M212.7782,80.16a28.7391,28.7391,0,1,1-30.9223-48.4515" fill="none" stroke="#fff"
+                stroke-linecap="round" stroke-linejoin="round" stroke-width="6" />
+            <rect x="184.5793" y="95.7163" width="27.4523" height="4.5754" fill="#fff" />
+            <rect x="190.0483" y="91.6413" width="16.5142" height="2.3592" fill="#fff" />
+            <rect x="193.3726" y="85.6362" width="9.8657" height="6.0052"
+                transform="translate(286.9442 -109.6667) rotate(90)" fill="#fff" />
+        </g>
+    </g>
+</svg>
